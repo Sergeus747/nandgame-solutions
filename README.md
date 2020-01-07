@@ -85,6 +85,8 @@ solutions for http://nandgame.com/
 ## 24 Instruction decoder
 ![24 instruction_decoder](/24_instruction_decoder.png)
 
+![24s instruction_decoder](/24s_instruction_decoder.png)
+
 ## 25 Control unit
 ![25 control_unit](/25_control_unit.png)
 
